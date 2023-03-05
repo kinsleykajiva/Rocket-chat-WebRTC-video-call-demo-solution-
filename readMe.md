@@ -98,7 +98,7 @@ Please see screenshots below to see how the application works and looks:
 References:
 
 - WebRTC official website: https://webrtc.org/
-- ebRTC on MDN web docs: https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API
+- Websockets on MDN web docs: https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API
 - apprtc on GitHub: https://github.com/webrtc/apprtc
 - Janus on GitHub:https://github.com/meetecho/janus-gateway
 - Personal Similar Related Project :https://github.com/kinsleykajiva/click2call-About-Project-Descriptions-
