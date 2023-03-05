@@ -77,6 +77,7 @@ To install Janus please review of my documentation  - https://github.com/kinsley
 
 For a fedora case look at this  - https://github.com/marijndegen/fedora-janus-installation-manual     or use the official instruction on how to install it .
 
+backend websocket server - htt://localhost:5300 OR WS://localhost:5300
 
 Make sure that when the janus server is running check this url - remote set up  http://public-ap-address:8088/janus/info  or remote http://localhost:8088/janus/info to see if the server is running.
 
