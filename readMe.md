@@ -77,6 +77,10 @@ To install Janus please review of my documentation  - https://github.com/kinsley
 
 For a fedora case look at this  - https://github.com/marijndegen/fedora-janus-installation-manual     or use the official instruction on how to install it .
 
+
+Make sure that when the janus server is running check this url - remote set up  http://public-ap-address:8088/janus/info  or remote http://localhost:8088/janus/info to see if the server is running.
+
+
 Please see screenshots below to see how the application works and looks:
 <img src="screenshots/Screenshot from 2023-03-05 19-50-00.png" alt="screenshot of the client app"/>
 <img src="screenshots/Screenshot from 2023-03-05 19-50-28.png" alt="janus installation"/>
